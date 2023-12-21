@@ -1,0 +1,34 @@
+Per accedere al programma aprire index.html
+
+Il codice sottopone a delle domande, alla fine indovinerà il personaggio scelto dalla lista sottostante 
+(visibile anche nel file .xlsx nella cartella "file lavoro", con ulteriori informazioni per ciascun personaggio). 
+Se non si risponde in maniera veritiera verrà fatta un estrazione tra i personaggi nella lista più probabili.
+
+
+Albert Einstein
+Marie Curie
+Steve Jobs
+Ada Lovelace
+Elon Musk
+Bill Gates
+Jane Goodall
+Tim Berners-Lee
+Stephen Hawking
+Grace Hopper
+Nikola Tesla
+Alan Turing
+Rosalind Franklin
+Mark Zuckerberg
+Shinya Yamanaka
+Katherine Johnson
+Jeff Bezos
+Richard Feynman
+Francesco Marzano
+Sundar Pichai
+
+
+
+
+
+
+Il programma potrebbe essere soggetto ad errori nelle risposte.

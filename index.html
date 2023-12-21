@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Indovina il Personaggio</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<div class="container">
+  <header>
+    <h1>Indovina il Personaggio STEAM</h1>
+  </header>
+
+  <main id="gameContainer" class="hidden">
+    <div id="question"></div>
+    <div class="buttons">
+      <button id="yesButton" class="answer-button">Si</button>
+      <button id="noButton" class="answer-button">No</button>
+    </div>
+ <div class="result hidden">
+  <h2>Risultato:</h2>
+  <p id="characterName"></p>
+  <img id="characterImage" class="character-image" src="" alt="Character Image">
+</div>
+
+    <button id="resetButton" class="hidden">Ricomincia</button>
+  </main>
+
+  <footer>
+    <button id="startButton">Inizio</button>
+  </footer>
+</div>
+
+<script src="js/script.js"></script>
+
+</body>
+</html>
