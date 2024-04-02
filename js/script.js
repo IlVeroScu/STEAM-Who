@@ -926,7 +926,7 @@ const characters = [
   },
 
 {
-    name: 'Giorgio Gargani',
+    name: 'The_Real_Scu_',
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sundar_Pichai_%282023%29_cropped.jpg/800px-Sundar_Pichai_%282023%29_cropped.jpg',
     answers: [
       { questionIndex: 0,  answer: 'yes' },
@@ -973,7 +973,7 @@ const characters = [
   },
 
 {
-    name: 'Federico Neglia',
+    name: 'Frederick08',
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sundar_Pichai_%282023%29_cropped.jpg/800px-Sundar_Pichai_%282023%29_cropped.jpg',
     answers: [
       { questionIndex: 0,  answer: 'no' },
